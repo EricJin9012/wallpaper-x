@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4B370152-351B-4AC1-A81A-D6D5A14BFFD8"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7DAA613-3FBF-4C8B-8B3C-0149ADEB4878"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wallpapers X/ViewController/OneCategoryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "loadWallsFromFirebase()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D7DAA613-3FBF-4C8B-8B3C-0149ADEB4878 - cab6f28734d8d027"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wallpapers_X.OneCategoryViewController.loadCategoryFromFirebase() -&gt; ()"
+                  moduleName = "Wallpapers X"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MACSETUP/Workspace/iOS/Swift/Wallpaper/Source/Wallpapers%20X/Wallpapers%20X/ViewController/OneCategoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "780">
+               </Location>
+               <Location
+                  uuid = "D7DAA613-3FBF-4C8B-8B3C-0149ADEB4878 - 9f66e666b495081b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in Wallpapers_X.OneCategoryViewController.loadCategoryFromFirebase() -&gt; ()"
+                  moduleName = "Wallpapers X"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MACSETUP/Workspace/iOS/Swift/Wallpaper/Source/Wallpapers%20X/Wallpapers%20X/ViewController/OneCategoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8401462-BB85-4EF7-A546-92F801A7CEA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wallpapers X/ViewController/OneCategoryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "loadWallsFromFirebase()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AA35001-B841-4E3E-8413-79AAE368836D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wallpapers X/ViewController/FullViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "FullViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
